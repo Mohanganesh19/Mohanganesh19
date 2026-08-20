@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋,Im Mohanganesh B</h1>
-<h3 align="center">A passionate HUMAN RESOURCE/ h3>
+<h3 align="center">A passionate HUMAN RESOURCE/ 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohanganesh19&label=Profile%20views&color=0e75b6&style=flat" alt="mohanganesh19" /> </p>
 
